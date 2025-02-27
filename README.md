@@ -115,10 +115,6 @@ Please ensure your code adheres to the project's coding standards and includes a
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-## 🙏 Acknowledgments
-
-- Inspiration and initial concept by **AbhishMB**.
-- Thanks to all contributors and the open-source community for their valuable input and support.
 
 ---
 
